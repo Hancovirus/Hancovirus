@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Trần Tuấn Phong, also known as Hancovirus.
+- 👋 Hi, I’m Trần Tuấn Phong.
 - 🏫 I’m currently studying Computer Science at VNU University of Engineering and Technology – VNU-UET.
 
 <!---
